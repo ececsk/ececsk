@@ -4,7 +4,7 @@
 [<img align="left" alt="ececoskuncay | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="ececoskuncay | Gmail" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="ecosy | Medium" width="22px" src="./medium.svg" />][medium]
-[<img align="left" alt="ececosy | Hackerrank" width="22px" src="./dev-dot-to.svg" />][hackerrank]
+[<img align="left" alt="ececosy | Hackerrank" width="22px" src="./hackerrank.svg" />][hackerrank]
 <br>
 <br>
 
