@@ -15,7 +15,7 @@
 [linkedin]: https://www.linkedin.com/in/ececoskuncay/
 [gmail]: mailto:ececoskuncay@gmail.com
 [hackerrank]: https://www.hackerrank.com/ececosy
-[medium]: https://ecosy.medium.com/
+[medium]: https://medium.com/@ececoskuncay
 
 
 
