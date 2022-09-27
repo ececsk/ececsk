@@ -1,9 +1,9 @@
 # Hi, I'm Ece Coskuncay 
 
 </p>
-- 🎓  I'm a senior student at Department of Computer Engineering at Adnan Menderes University. 
+🎓  I'm a senior student at Department of Computer Engineering at Adnan Menderes University. 
 
-- 🌱 I’m currently learning **Python and Java **
+- 🌱 I’m currently learning Python and Java
 
 - 📝 I try to write articles on various topics [https://medium.com/@ececoskuncay](https://medium.com/@ececoskuncay)
 
