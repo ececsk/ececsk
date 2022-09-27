@@ -28,9 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ececsk&" alt="ececsk" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ececsk&label=Profile%20views&color=0e75b6&style=flat" alt="ececsk" /> </p>
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ececsk" alt="ececsk" /></a> </p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ececsk&label=Profile%20views&color=0e75b6&style=flat" alt="ececsk" /> </p>
