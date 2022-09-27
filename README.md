@@ -8,7 +8,7 @@
 <br>
 <br>
 
-🎓  I'm a 3rd year student at Department of Computer Engineering at Adnan Menderes University. 
+🎓  I'm a senior student at Department of Computer Engineering at Adnan Menderes University. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ececsk&theme=great-gatsby&layout=compact)
 
