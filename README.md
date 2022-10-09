@@ -30,5 +30,5 @@
 
 
 
-<p align="center">![](https://github.com/ececsk/ececsk/blob/output/github-contribution-grid-snake.svg)
+<a align="center">![](https://github.com/ececsk/ececsk/blob/output/github-contribution-grid-snake.svg)
 
