@@ -30,4 +30,4 @@
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/ececsk/ececsk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation"><img src="https://raw.githubusercontent.com/ececsk/ececsk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation"></p>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
