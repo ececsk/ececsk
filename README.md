@@ -30,4 +30,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ececsk" alt="ececsk" /></a> </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ececsk&label=Profile%20views&color=0e75b6&style=flat" alt="ececsk" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ececsk&label=Profile%20views&color=0e75b6&style=flat" alt="ececsk" /> </p>
+
