@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Python and Java
 
-- 📝 I try to write articles on various topics [https://medium.com/@ececoskuncay](https://medium.com/@ececoskuncay)
+- 📝 I try to write articles on various topics on [medium](https://medium.com/@ececoskuncay)
 
 - 📫 How to reach me **ececoskuncay@gmail.com**
 
