@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ececsk&label=Profile%20views&color=blueviolet&style=flat" alt="ececsk" /> </p>
 
 <h1 align="center"> Hi, I'm Ece Coskuncay </h1>
 
