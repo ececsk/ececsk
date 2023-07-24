@@ -1,5 +1,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ececsk&label=Profile%20views&color=blueviolet&style=flat" alt="ececsk" /> </p>
-<p align="center"> <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif"/> </p>
 
 <h1 align="center"> Hi, I'm Ece Coskuncay </h1>
 
